@@ -11,5 +11,7 @@ while keeping several web service containers behind in a private network.
 Examples:
 
 `http://myapp.domain.com/` will forward `/` request to a container with name `myapp`.
+
 `http://api.domain.com/` will forward `/` request to a container with name `api`.
+
 `http://service/hello/index.html` will forward `/hello/index.html` request to a container with name `service`.
