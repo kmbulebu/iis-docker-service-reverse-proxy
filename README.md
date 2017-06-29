@@ -23,6 +23,9 @@ Examples:
 
 Do not use this. Limitations of Windows Containers and HyperV networking prevent this from working correctly.
 
+## Occasional container exit
+Not yet debugged. On several occasionals, the container exitted unexpectedly.
+
 ## No Swarm Service Networking VIP mode in Windows
 Reference: [https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/swarm-mode]
 ```
