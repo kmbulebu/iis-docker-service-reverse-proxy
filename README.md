@@ -45,9 +45,13 @@ Note: Multiple NAT networks are now supported with Windows 10 Creators Update!
 ```
 
 Reference: [https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/container-networking]
+
 Reference: [https://blogs.technet.microsoft.com/virtualization/2017/02/09/overlay-network-driver-with-support-for-docker-swarm-mode-now-available-to-windows-insiders-on-windows-10/]
+
 Reference: [https://github.com/moby/moby/issues/23314]
+
 Reference: [https://github.com/docker/compose/issues/4024]
+
 Reference: [https://github.com/docker/compose/issues/4818]
 
 ## No equivalent to a Linux Socket for Windows Containers
